@@ -2,6 +2,7 @@
 
 
 - 📚 I’m currently learning about Machine learning libraries in Python
+- 🤔 Interested in Maths, Computer Science and A.I.  
 <br>
 
 ---
@@ -18,7 +19,7 @@
           
 <img align="left" alt="Numpy" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="margin-right:5px;"/> 
 
-<img align="left" alt="pandas" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" style="margin-right:15px;"/>
+<img align="left" alt="pandas" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="margin-right:15px;"/>
 
 
 <br><br> <br><br>
