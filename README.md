@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm Konstantinos</h1>
-<h3 align="center">Undergaduate interested in Machine Learning and Artificial Intelligence</h3>
+### Hi there, my name is Konstantinos and I am an undergraduate student learning Python & Machine learning.
 
-<h3 align="left">Reach me at ksporos05@gmail.com </h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 📚 I’m currently learning about Machine learning libraries in Python
+<br>
+
+---
+
+#### Languages:
+<img align="left" alt="python" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /> 
+
+   
+<br><br><br>
+
+#### Libraries:
+
+<img align="left" alt="Tensorflow" width="106px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="margin-right:15px;" />
+          
+<img align="left" alt="Numpy" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="margin-right:5px;"/> 
+
+<img align="left" alt="pandas" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" style="margin-right:15px;"/>
+
+
+<br><br> <br><br>
