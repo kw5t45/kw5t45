@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Konstantinos</h1>
 <h3 align="center">Undergaduate interested in Machine Learning and Artificial Intelligence</h3>
 
-<h3 align="left">Reach me at ksporos05@gmail.com :</h3>
+<h3 align="left">Reach me at ksporos05@gmail.com </h3>
 <p align="left">
 </p>
 
